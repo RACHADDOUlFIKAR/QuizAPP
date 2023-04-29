@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354257285817",
+    "project_id": "login-registration-fireb-cafe1",
+    "storage_bucket": "login-registration-fireb-cafe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354257285817:android:2526b0843d6fac60766168",
+        "android_client_info": {
+          "package_name": "com.example.labquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354257285817-6t43dunopn6t9ufejccudbhd78anoavo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMcLUPJ3QVvofCQ53rU39QrGo6biiuixM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354257285817-6t43dunopn6t9ufejccudbhd78anoavo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
